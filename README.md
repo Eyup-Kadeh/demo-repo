@@ -1,7 +1,9 @@
-#Demo
+#Demo projekt
 
-some descriptionfdf
+some description
 
 ## subheader
 
 Watch Tutorial on Youtube and subscribe
+Follow me on twich 
+and twitter
