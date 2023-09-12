@@ -1,10 +1,10 @@
-#Demo projekt
+# Demo projekt
 
-some description
+# some description
 
 ## subheader
 
-Watch Tutorial on Youtube and subscribe 
-and don,t forget to follow on twich
+# Watch Tutorial on Youtube and subscribe and don't forget to follow
 
+# Tomorrow is a Test
 
